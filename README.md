@@ -13,7 +13,7 @@ The Noverse Overwatch Utility is a PowerShell script developed to automate the c
 
 ## Usage Instructions:
 
-1. Download the [Script]([https://github.com/5Noxi/Overwatch-Settings/releases/tag/Overwatch](https://github.com/5Noxi/Overwatch-Settings/releases))
+1. Download the [Script](https://github.com/5Noxi/Overwatch-Settings/releases)
 2. Run the Script: Right-click on `Noverse_Overwatch-Utility.ps1` and select "Run with PowerShell".
 3. Follow the On-Screen Prompts: The interactive menu will guide you to select and apply your preferred settings effectively.
 4. Start Overwatch
